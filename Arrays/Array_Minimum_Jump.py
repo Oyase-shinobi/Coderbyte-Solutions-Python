@@ -48,7 +48,7 @@ def ArrayMinJumps(arr):
       current_end = farthest
       jumps += 1
     if current_end <= i:
-      return -1
+      return -1   
  
 
 Input1= [3, 4, 2, 1, 1, 100]
